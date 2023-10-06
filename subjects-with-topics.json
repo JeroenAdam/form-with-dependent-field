@@ -1,0 +1,233 @@
+[
+  {
+      "id": 1,
+      "label": "Arabic language",
+      "creationDate": "2022-08-15",
+      "topics": [
+          {
+              "id": 1,
+              "label": "Reading",
+              "creationDate": "2022-08-15"
+          },
+          {
+              "id": 2,
+              "label": "Writing",
+              "creationDate": "2022-08-15"
+          },
+          {
+              "id": 19,
+              "label": "Morals",
+              "creationDate": "2023-07-08"
+          }
+      ]
+  },
+  {
+      "id": 4,
+      "label": "Mathematics",
+      "creationDate": "2022-08-15",
+      "topics": [
+          {
+              "id": 3,
+              "label": "Arithmetic",
+              "creationDate": "2022-08-15"
+          },
+          {
+              "id": 24,
+              "label": "Trigonometry",
+              "creationDate": "2023-07-08"
+          }
+      ]
+  },
+  {
+      "id": 2,
+      "label": "Islamic education",
+      "creationDate": "2022-08-15",
+      "topics": [
+          {
+              "id": 4,
+              "label": "Morals",
+              "creationDate": "2022-08-15"
+          },
+          {
+              "id": 26,
+              "label": "Law",
+              "creationDate": "2023-07-08"
+          }
+      ]
+  },
+  {
+      "id": 6,
+      "label": "Knowledge",
+      "creationDate": "2022-08-15",
+      "topics": [
+          {
+              "id": 5,
+              "label": "Project-based learning",
+              "creationDate": "2023-07-02"
+          },
+          {
+              "id": 15,
+              "label": "Experiential learning",
+              "creationDate": "2023-07-08"
+          },
+          {
+              "id": 20,
+              "label": "Morals",
+              "creationDate": "2023-07-08"
+          }
+      ]
+  },
+  {
+      "id": 3,
+      "label": "History",
+      "creationDate": "2022-08-15",
+      "topics": [
+          {
+              "id": 6,
+              "label": "Maritime history ",
+              "creationDate": "2023-07-02"
+          },
+          {
+              "id": 18,
+              "label": "Reading",
+              "creationDate": "2023-07-08"
+          }
+      ]
+  },
+  {
+      "id": 8,
+      "label": "Geography",
+      "creationDate": "2023-07-02",
+      "topics": [
+          {
+              "id": 7,
+              "label": "Navigation",
+              "creationDate": "2023-07-02"
+          }
+      ]
+  },
+  {
+      "id": 7,
+      "label": "Travel",
+      "creationDate": "2023-07-02",
+      "topics": [
+          {
+              "id": 8,
+              "label": "Experiential learning",
+              "creationDate": "2023-07-02"
+          },
+          {
+              "id": 16,
+              "label": "Project-based learning",
+              "creationDate": "2023-07-08"
+          }
+      ]
+  },
+  {
+      "id": 5,
+      "label": "IT",
+      "creationDate": "2022-08-15",
+      "topics": [
+          {
+              "id": 9,
+              "label": "Programming",
+              "creationDate": "2023-07-02"
+          },
+          {
+              "id": 23,
+              "label": "Gaming",
+              "creationDate": "2023-09-30"
+          },
+          {
+              "id": 25,
+              "label": "General",
+              "creationDate": "2023-07-08"
+          }
+      ]
+  },
+  {
+      "id": 15,
+      "label": "Biology",
+      "creationDate": "2023-07-02",
+      "topics": [
+          {
+              "id": 10,
+              "label": "Embryonic development",
+              "creationDate": "2023-07-08"
+          },
+          {
+              "id": 22,
+              "label": "Vaccination",
+              "creationDate": "2023-07-08"
+          }
+      ]
+  },
+  {
+      "id": 9,
+      "label": "Nature",
+      "creationDate": "2023-07-02",
+      "topics": [
+          {
+              "id": 11,
+              "label": "Natural disasters",
+              "creationDate": "2023-07-08"
+          },
+          {
+              "id": 17,
+              "label": "Project-based learning",
+              "creationDate": "2023-07-08"
+          }
+      ]
+  },
+  {
+      "id": 11,
+      "label": "Economics",
+      "creationDate": "2023-07-02",
+      "topics": [
+          {
+              "id": 12,
+              "label": "Money",
+              "creationDate": "2023-07-08"
+          },
+          {
+              "id": 21,
+              "label": "Morals",
+              "creationDate": "2023-07-08"
+          }
+      ]
+  },
+  {
+      "id": 10,
+      "label": "Physics",
+      "creationDate": "2023-07-02",
+      "topics": [
+          {
+              "id": 13,
+              "label": "Experiential learning",
+              "creationDate": "2023-07-08"
+          }
+      ]
+  },
+  {
+      "id": 14,
+      "label": "English language",
+      "creationDate": "2023-07-02",
+      "topics": [
+          {
+              "id": 14,
+              "label": "Experiential learning",
+              "creationDate": "2023-07-08"
+          },
+          {
+              "id": 27,
+              "label": "Reading",
+              "creationDate": "2023-07-08"
+          },
+          {
+              "id": 28,
+              "label": "Writing",
+              "creationDate": "2023-07-08"
+          }
+      ]
+  }
+]

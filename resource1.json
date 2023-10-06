@@ -1,0 +1,23 @@
+{
+    "id": 1,
+    "title": "TuxMath - free game",
+    "creationDate": "2023-09-16",
+    "description": "TuxMath is an open-source, free game with a difficulty which is appropriate for children from 7 to 13 years.",
+    "content": "this is some content",
+    "user": {
+        "id": "c4af4e2f-b432-4c3b-8405-cca86cd5b97b",
+        "login": "user"
+    },
+    "subject": {
+        "id": 4,
+        "label": "Mathematics",
+        "creationDate": null
+    },
+    "topics": [
+        {
+            "id": 3,
+            "label": "Arithmetic",
+            "creationDate": null
+        }
+    ]
+}
