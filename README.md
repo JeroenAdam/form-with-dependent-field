@@ -2,8 +2,8 @@
 
 On submit, show form data in popup.
 
-![example](example-form.png)
-![example](example-subjects-dropdown.png)
-![example](example-topics-dropdown.png)
-![example](example-other-subject.png)
+![example](example_form.png)
+![example](example_subjects_dropdown.png)
+![example](example_topics_dropdown.png)
+![example](example_other_subject.png)
  
